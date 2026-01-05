@@ -1,0 +1,14 @@
+name: ef-toymodel
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - networkx
+  - pytorch
+  - pip
+  - pip:
+      - torch
