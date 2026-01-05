@@ -18,7 +18,3 @@ The repo contains two main types of learners:
 - **Contrastive Learning**: Learning without labels, using only local associations.
 - **Cognitive Limits**: The idea that what a mind can learn depends on both its architecture and its access to the world.
 
-## Repo Structure
-
-<pre> ## Repo Structure ``` ├── notebooks/ │ ├── Ehrenfeucht–Fraisse_game.ipynb # Notebook demonstrating the EF game logic used for this experiment │ ├── classifier_contrastive_learners.ipynb # Notebook for contrastive and classifier learning exploration │ ├── src/ │ ├── ef_game.py # EF game logic and structure definitions │ ├── models.py # Classifier and contrastive learner models │ ├── utils.py # Plotting and graph utilities │ ├── environment.yml # Conda environment definition ├── README.md ``` </pre>
-
