@@ -4,7 +4,7 @@ Repository associated with the article [**What You Can't Ask: Cognitive Limits a
 
 ## Overview
 
-I define a simple **Ehrenfeucht–Fraïssé (EF) game** implementation to define indistinguishability under different logics.
+I use a simple **Ehrenfeucht–Fraïssé (EF) game** implementation to define indistinguishability under different logics.
 
 The repo contains two main types of learners:
 
@@ -17,4 +17,5 @@ The repo contains two main types of learners:
 - **EF Game**: Models which strings are indistinguishable under limited logic (e.g., first-order logic without counting).
 - **Contrastive Learning**: Learning without labels, using only local associations.
 - **Cognitive Limits**: The idea that what a mind can learn depends on both its architecture and its access to the world.
+
 
